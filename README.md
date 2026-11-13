@@ -1,1 +1,3 @@
-live link :- https://chimerical-puppy-4f0e20.netlify.app
+# JavaScript Practice 🚀
+
+A collection of small vanilla JavaScript projects, DOM manipulation experiments, and interactive components built while learning web development.
